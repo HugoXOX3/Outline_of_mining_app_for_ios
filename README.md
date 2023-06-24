@@ -1,0 +1,2 @@
+# Outline_of_mining_app_for_ios
+Outline_of_mining_app_for_ios
