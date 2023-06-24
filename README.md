@@ -1,6 +1,6 @@
 # Outline_of_mining_app_for_ios
 Outline_of_mining_app_for_ios
-This is base on xmrig(https://github.com/xmrig) and you can use this outline yo write your own app and package with xcode.
+This is base on xmrig(https://github.com/xmrig) and you can use this outline to write your own app and package with xcode.
 HF<3
 
 -HMCLXOX
