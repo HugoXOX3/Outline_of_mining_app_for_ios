@@ -4,6 +4,7 @@ This is base on xmrig(https://github.com/xmrig) and you can use this outline to 
 HF<3
 
 #Step_to_make_your_own_app
+
 1.Choose the cryptocurrency I want to mine. Popular choices are Bitcoin, Ethereum, and Monero. I'll go with Monero since you mentioned XMRig.
 
 2.Research XMRig and Monero mining. I'll study how the protocol works and what features are important for an efficient iOS mining app.
