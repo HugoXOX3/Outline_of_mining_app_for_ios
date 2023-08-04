@@ -24,4 +24,4 @@ HF<3
 9.Publish the app to the iOS App Store. This will make it available for anyone to download and start mining Monero.
 
 -HMCLXOX
-Donate_Monero:45bVZNs6Vxp4G37TKmzvQc9FDDnFVcwkE5Z4GygXeZsUBrmdmWp83DgWnSWHsFVzQnLm4qU8xTDBTHvPPh9bRritE6MUiJa
+Donate_Monero:43dYmJ6ztvkNFwg5zvi9C8bVffCwWfiRoK3LfcKUEfYvPD7HWEyaPxU8dCbopHgWvkEBDoikPKxdVeLkxtsPRfyFNjtk447
